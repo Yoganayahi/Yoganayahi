@@ -35,10 +35,10 @@
 
 ##  Featured Projects
 
-- 🎯 **Mood Based To-Do App**
-- 🖼️ **Origami Gallery**
-- 📦 **Mini JavaScript Projects**
-- 📘 **DSA Practice Repository**
+-  **Mood Based To-Do App**
+-  **Origami Gallery**
+-  **Mini JavaScript Projects**
+-  **DSA Practice Repository**
 
 ---
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoganayahi&theme=tokyonight" />
@@ -62,7 +62,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+##  Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yoganayahi/Yoganayahi/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -70,11 +70,11 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/yoganayahi-marimuthu-706869349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:yoganayahi2468@gmail.com "><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
